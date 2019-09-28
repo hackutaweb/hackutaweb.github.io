@@ -47,12 +47,15 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Natural Language Processing   
+    web_url: https://github.com/topics/nlp
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/b2/8733c0b06511e7958c7f63f0f736f7/Natural-language-processing-2.png?auto=format%2Ccompress&dpr=2.625
 
-  - name: Web design
+  - name: Node.js 
+    web_url: https://github.com/topics/nodejs
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: Tensorflow
+    web_url: https://github.com/topics/tensorflow
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png
