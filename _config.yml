@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 #first commit
 plugins:
   - jekyll-octicons
